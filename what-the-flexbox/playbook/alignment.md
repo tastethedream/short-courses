@@ -14,8 +14,9 @@
 
 - `space-between` first item will be at `flex start` and the last item will be at `flex end` and the rest will be evenly spaced with eqaul space between
 
-![space-between](https://github.com/tastethedream/short-courses/what-the-flex-box/images/space-between.png)
+![space-between](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/intro-excercises/images/space-between.png)
 
+![space-between](images/space-between.png)
 
 - `space-around` first item will be at `flex start` and the last item will be at `flex end` and the rest will be evenly spaced with equal space between but will also give space at the left and right margins
 
