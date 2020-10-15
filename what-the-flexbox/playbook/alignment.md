@@ -14,17 +14,18 @@
 
 - `space-between` first item will be at `flex start` and the last item will be at `flex end` and the rest will be evenly spaced with eqaul space between
 
-![space-between](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/space-between.png"space between")
+
+![flexbox space between](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/space-between.png "Space between")
 
 
 - `space-around` first item will be at `flex start` and the last item will be at `flex end` and the rest will be evenly spaced with equal space between but will also give space at the left and right margins
 
-![space-between](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/space-around.png"space around")
+![flexbox space around](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/space-around.png "Space around")
 
 
 if you change the direction to `flex: column;` you need to add a min height to the container to get the space
 
-![space-between](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/spacearound-column.png"space around column")
+![flexbox space around column](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/spacearound-column.png "Space around column")
 
 
 ##  Flexbox alignment and centering with align-items - video 7
@@ -39,7 +40,7 @@ if you change the direction to `flex: column;` you need to add a min height to t
 
 - `align-items: baseline;` will make make sure the bottom of each text item is aligned properly even when the items themselves are differing sizes
 
-![align-items](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/align-items.png"align items")
+![flexbox align-items](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/align-items.png "align items")
 
 changing the direction to colum will again switch the axis
 
@@ -53,7 +54,7 @@ changing the direction to colum will again switch the axis
 
 - default is `align-content: stretch`
 
-![align-content](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/align-content.png"align content")
+![flexbox align-content](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/align-content.png "align content")
 
 - `flex-start` will put the extra space at the bottom of the screen
 
@@ -73,7 +74,7 @@ changing the direction to colum will again switch the axis
 
 - default is `align-content: stretch`
 
-![align-self](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/align-self.png"align self")
+![flexbox align-self](https://github.com/tastethedream/short-courses/blob/what-the-flex-box/images/align-self.png "align self")
 
 
 
