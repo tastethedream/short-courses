@@ -44,7 +44,7 @@ if you change the direction to `flex: column;` you need to add a min height to t
 
 changing the direction to colum will again switch the axis
 
-## Alignment and centering with align-content
+## Alignment and centering with align-content -video 8
 
 - `align-content` deals with the white space 
 
@@ -68,7 +68,7 @@ changing the direction to colum will again switch the axis
 
 -`center` will split the space between top and botton and bertically centre the container
 
-## Alignment and centering with align-self
+## Alignment and centering with align-self - video 9
 
 - `align-self` allows you to taget a specific item and overide the default
 
